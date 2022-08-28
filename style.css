@@ -1,0 +1,14 @@
+html, body {  
+    text-align: center;  
+    background-color: #000000; 
+    margin: auto;
+    padding: 10px;
+}  
+canvas {
+  margin: 10px auto;
+  width:100%;
+  display: block;
+  border: solid 9px rgb(255, 255, 255);
+  padding: 26px 26px;
+  box-shadow: 6px 6px 6px rgba(131, 220, 255, 0.568);
+}
