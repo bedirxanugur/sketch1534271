@@ -1,6 +1,6 @@
 # Canvas Sketch / 1513148
 
-[Kodluyoruz](https://www.kodluyoruz.org) The first repository I created in the Front-End tutorial.
+[Xan](https://beacons.ai/bedirxanugur) The first repository I created in the Front-End & Creative Coding
 
 ![image info](./Img/01.png)
 
